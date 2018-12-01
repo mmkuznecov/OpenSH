@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "0": [
+        {
+          "age": 16,
+          "adress": "Moscow",
+          "name": "Mikhail Kuznetsov",
+          "sex": "M"
+        }
+      ]
+    },
+    {
+      "1": [
+        {
+          "age": 23,
+          "adress": "Moscow",
+          "name": "Timofey Kondratiev",
+          "sex": "M"
+        }
+      ]
+    },
+    {
+      "2": [
+        {
+          "age": 15,
+          "adress": "Moscow",
+          "name": "Vladimir",
+          "sex": "M"
+        }]},
+        {
+      "5": [
+        {
+          "age": 15,
+          "adress": "Moscow",
+          "name": "Andrey Zinoviev",
+          "sex": "M"
+        }
+      ]
+    }
+  ]
+}
